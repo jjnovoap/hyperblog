@@ -1,0 +1,59 @@
+commit 38448bca54e6b3e4175ea2f6b3f55c6513ef00e9
+Author: Javier N <leyons22@hotmail.com>
+Date:   Sun Aug 11 17:26:32 2024 -0500
+
+    Add some words
+
+commit f10e2f747bb2e6918423dd04f8defa71b2996170
+Author: Javier N <leyons22@hotmail.com>
+Date:   Sun Aug 11 17:23:55 2024 -0500
+
+    Start up my real project with html and css
+
+commit cd17182e26c991a95df12ab80486b1d4e77e43c4
+Author: Javier N <leyons22@hotmail.com>
+Date:   Sat Aug 10 22:54:29 2024 -0500
+
+    Change to improve the text of the file
+
+commit 0a86acc9e0e78b4275601c6418bd69ddeda5fd7b
+Author: Javier N <leyons22@hotmail.com>
+Date:   Sat Aug 10 22:50:03 2024 -0500
+
+    This file replace the other one
+
+commit a3d533381ff5ea3d7210f632ebba41398f43ba9d
+Author: javier <leyons22@hotmail.com>
+Date:   Sat Aug 10 22:44:15 2024 -0500
+
+    this file don´t exist
+
+commit 34f313120b4f6d3a86a129160a7ccef5b250b52d
+Author: javier <leyons22@hotmail.com>
+Date:   Sat Aug 10 22:41:56 2024 -0500
+
+    this file has been modifid by me
+
+commit 819908095ce324d510051fcfc7bc6a0cdd19c57e
+Author: javier <leyons22@hotmail.com>
+Date:   Sat Aug 10 22:38:45 2024 -0500
+
+    This is the file brand new
+
+commit 9c7c05d5ee6ac7e77d31573a1cde3ac4734bd9e7
+Author: Javier Novoa <leyons22@hotmail.com>
+Date:   Sat Aug 10 22:32:15 2024 -0500
+
+    this file has been eliminated
+
+commit 75d076b950e075f58f31611e8713a9690350cd16
+Author: Javier Novoa <leyons22@hotmail.com>
+Date:   Sat Aug 10 22:06:27 2024 -0500
+
+    Changes to show the exact age
+
+commit a504b6cf4d3583b2b0061433b956250ca730b1d8
+Author: Javier Novoa <leyons22@hotmail.com>
+Date:   Sat Aug 10 21:55:11 2024 -0500
+
+    this is the fisrt commit of this file
